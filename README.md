@@ -11,9 +11,6 @@ recurring-revenue AI consulting work independently.
 
 **A few things I've built:**
 
-- [**10xConsulting**](https://consulting-brain-os.vercel.app) — consulting-methodology SaaS
-  with LLM-backed framework retrieval, client engagement management, and generated
-  deliverables ([repo](https://github.com/CAPP-Financials/Consulting_Brain_OS))
 - [**Signal Integrity Diagnostic**](https://sid-site-phi.vercel.app) — a free reconciliation-leakage
   check for banking fraud ops, enterprise AI spend, and loyalty programmes, built with a
   machine-checked verification harness so every stage has a done condition a script proves,
